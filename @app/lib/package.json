@@ -7,7 +7,7 @@
     "test": "NODE_ENV=test node -r @app/config/env ./node_modules/.bin/jest"
   },
   "dependencies": {
-    "@apollo/react-ssr": "^3.1.5",
+    "@apollo/react-ssr": "^4.0.0",
     "apollo-cache-inmemory": "^1.6.5",
     "apollo-client": "^2.6.8",
     "apollo-link": "^1.2.14",
